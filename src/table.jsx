@@ -104,6 +104,12 @@ const Table = () => {
             style={{ width: "20%" }}
             sortable
           ></Column>
+          <Column
+            field="phonenumber"
+            header="Phone Number"
+            style={{ width: "20%" }}
+            sortable
+          ></Column>
         </DataTable>
       </div>
     </div>

@@ -98,12 +98,6 @@ const TableSecond = () => {
             style={{ width: "20%" }}
             sortable
           ></Column>
-          <Column
-            field="course"
-            header="Course"
-            style={{ width: "20%" }}
-            sortable
-          ></Column>
         </DataTable>
       </div>
     </div>
